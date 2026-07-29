@@ -1,0 +1,6 @@
+[submodule "reproduction/verl"]
+	path = reproduction/verl
+	url = https://github.com/volcengine/verl.git
+[submodule "framework/verl"]
+	path = framework/verl
+	url = https://github.com/volcengine/verl.git
