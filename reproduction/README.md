@@ -25,8 +25,8 @@ ReSkill combines three pieces:
 ## Installation
 
 ```bash
-git clone https://github.com/anonymous/Code-For-13262.git
-cd Code-For-13262
+git clone <repository-url> code-for-submission
+cd code-for-submission
 git submodule update --init --recursive verl
 pip install -e .
 ```
