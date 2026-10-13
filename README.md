@@ -1,4 +1,4 @@
-# Code for Submission 13262
+# Code for Submission
 
 Anonymous code release accompanying the paper submission
 **ReSkill: Reconciling Skill Creation with Policy Optimization in Agentic RL**.
