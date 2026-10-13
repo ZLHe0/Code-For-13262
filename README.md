@@ -19,6 +19,11 @@ and each pins the same validated veRL base as a git submodule:
 git submodule update --init --recursive
 ```
 
+## Potential Risks
+
+See [`POTENTIAL_RISKS.md`](POTENTIAL_RISKS.md) for the intended use of this code, the
+potential risks of running it and the related operations, and our recommendations.
+
 ## License
 
 Apache 2.0. See [`framework/LICENSE`](framework/LICENSE).
